@@ -9,5 +9,5 @@ I'm a multilingual professional pivoting into software engineering, certified in
 
 Currently building a full-stack portfolio and preparing for Springboard’s Software Engineering Career Track.
 
-📎 [View my resume](Zorina_Dellali_Resume_Public.pdf)  
+📎 [View my resume](public%20resume.pdf) 
 🌐 [GitHub Profile](https://github.com/zorinadellali)
