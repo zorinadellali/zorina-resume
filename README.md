@@ -2,6 +2,9 @@
 Public resume for web content and QA testing roles
 [Public Resume.pdf](https://github.com/user-attachments/files/23148544/Public.Resume.pdf)
 # Zorina Dellali – Public Resume
+📎 This resume is portfolio-ready and publicly hosted on GitHub.  
+🛠️ Built with precision, persistence, and a captioner's eye for detail.
+
 
 Welcome! This repository contains my public resume for remote-first roles in web content and QA testing.
 
